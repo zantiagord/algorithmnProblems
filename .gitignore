@@ -1,0 +1,4 @@
+dockerFlaskAPP/*
+apps/__pycache__/*
+apps/home/__pycache__/*
+
